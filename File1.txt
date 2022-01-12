@@ -12,3 +12,6 @@ change 5:- For WI6  on local master to test normal local master.
 change 6:- by teammate on remote master for bug3.
 
 
+change 7:- For WI6 on local master to test normal local master.
+
+Change 8:- on local master for WI7.
